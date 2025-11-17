@@ -52,7 +52,7 @@
     <style>@media(max-width: 1024px){.header__sticky-logo {width: {{ settings.logos_width }}px !important;   }</style>
     
       <img loading="lazy" srcset="{{ logo | image_url: width: lg_w }}, {{ logo | image_url: width: lg_w_2s }} 2x" src="{{ logo | image_url: width: lg_w }}"
-    class="header__sticky-logo t4s-d-none t4s-d-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" style="width: {{ lg_w }}px; %}">
+    class="header__sticky-logo t4s-d-none t4s-d-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" {% if custom_logo_width == false %} style="width: {{ lg_w }}px; "{%else%}style="width: {{ logo_width_px }}px"{% endif %}>
 
     {%- liquid 
     assign lg_w = settings.logo_mb_width

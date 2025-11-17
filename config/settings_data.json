@@ -493,24 +493,11 @@
               "lb_cl": ""
             }
           },
-          "base_eBW9Bz": {
+          "base_L9TbCx": {
             "type": "base",
             "settings": {
-              "title": "About",
-              "url": "shopify:\/\/pages\/about",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
-            }
-          },
-          "base_NF8DRh": {
-            "type": "base",
-            "settings": {
-              "title": "Bespoke",
-              "url": "shopify:\/\/pages\/custom",
+              "title": "VIAE 2025",
+              "url": "shopify:\/\/collections\/viae-earrings",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -537,19 +524,46 @@
               "item_fsize": 13,
               "sp_bettewn_item": 20
             }
+          },
+          "base_eBW9Bz": {
+            "type": "base",
+            "settings": {
+              "title": "About",
+              "url": "shopify:\/\/pages\/about",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
+          },
+          "base_NF8DRh": {
+            "type": "base",
+            "settings": {
+              "title": "Bespoke",
+              "url": "shopify:\/\/pages\/custom",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": ""
+            }
           }
         },
         "block_order": [
           "base_g6Azdr",
+          "base_L9TbCx",
+          "drop_nMPCNn",
           "base_eBW9Bz",
-          "base_NF8DRh",
-          "drop_nMPCNn"
+          "base_NF8DRh"
         ],
         "settings": {
           "layout": "logo_center",
           "full_header": true,
           "custom_logo_width": true,
-          "logo_width_px": 2,
+          "logo_width_px_new": 500,
           "height": 70,
           "arrow": false,
           "align": "start",
