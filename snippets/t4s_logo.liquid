@@ -17,6 +17,20 @@
    assign lg_wp_2s = logo_width_px | times: rate_retina
 -%} 
 <style>
+@media(min-width:300px){
+   .t4s-header__logo{
+      position:relative;
+   }
+   .t4s-header__logo a{
+      position:absolute;
+      top:50%;
+      left:50%;
+      transform: translate(-50%,-50%);
+   }
+   .t4s-header__logo img{
+      max-width:{{logo_width_px | divided_by:2.3}}px !important;
+   }
+}
 @media(min-width:1024px){
    .t4s-header__logo{
       position:relative;
