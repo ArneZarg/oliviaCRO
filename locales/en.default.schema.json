@@ -30,7 +30,7 @@
           "label": "Reveal sections on scroll"
         },
         "animations_paragraph": {
-          "content": "Add stunning snow effect on your website. [Install app free.](https://apps.shopify.com/ecomrise?utm_source=ecomus-intheme&utm_medium=animation-setting)"
+          "content": "Add stunning snow effect on your website. [Install app free.](https:\/\/apps.shopify.com\/ecomrise?utm_source=ecomus-intheme&utm_medium=animation-setting)"
         },
         "site_width_header": {
           "content": "+ Site width"
@@ -61,7 +61,7 @@
           "info": "Set background image only for boxed layout"
         },
         "body_bg_repeat": {
-          "label": "Background Repeat [Learn More](https://w3schools.com/cssref/pr_background-repeat.asp)",
+          "label": "Background Repeat [Learn More](https:\/\/w3schools.com\/cssref\/pr_background-repeat.asp)",
           "options": {
             "default": "Default",
             "no-repeat": "No Repeat",
@@ -72,7 +72,7 @@
           }
         },
         "body_bg_size": {
-          "label": "Background Size [Learn More](https://w3schools.com/cssref/css3_pr_background-size.asp)",
+          "label": "Background Size [Learn More](https:\/\/w3schools.com\/cssref\/css3_pr_background-size.asp)",
           "options": {
             "default": "Default",
             "inherit": "Inherit",
@@ -81,7 +81,7 @@
           }
         },
         "body_bg_attachment": {
-          "label": "Background Attachment [Learn More](https://w3schools.com/cssref/pr_background-attachment.asp)",
+          "label": "Background Attachment [Learn More](https:\/\/w3schools.com\/cssref\/pr_background-attachment.asp)",
           "options": {
             "default": "Default",
             "fixed": "Fixed",
@@ -90,7 +90,7 @@
           }
         },
         "body_bg_position": {
-          "label": "Background Position [Learn More](https://w3schools.com/cssref/pr_background-position.asp)",
+          "label": "Background Position [Learn More](https:\/\/w3schools.com\/cssref\/pr_background-position.asp)",
           "options": {
             "default": "Default",
             "left_top": "Left Top",
@@ -123,7 +123,7 @@
           "content": "+ Shop"
         },
         "global_acc": {
-          "label": "General instagram access token [learn more](https://support.the4.co/articles/how-to-get-instagram-access-token)"
+          "label": "General instagram access token [learn more](https:\/\/support.the4.co\/articles\/how-to-get-instagram-access-token)"
         },
         "global_acc_note": {
           "content": "NOTE: Via GraphQL API (General Instagram Access Token) Long-lived tokens are valid for 60 days. You will have to manually regenerate your access token."
@@ -151,8 +151,8 @@
           "label": "Platform email marketing",
           "options": {
             "default": "Default",
-            "omnisend": "Omnisend [install here](https://apps.shopify.com/omnisend/?ref=the4)",
-            "klaviyo": "Klaviyo [install here](https://apps.shopify.com/klaviyo-email-marketing/?ref=the4)",
+            "omnisend": "Omnisend [install here](https:\/\/apps.shopify.com\/omnisend\/?ref=the4)",
+            "klaviyo": "Klaviyo [install here](https:\/\/apps.shopify.com\/klaviyo-email-marketing\/?ref=the4)",
             "mailchimp": "Mailchimp"
           }
         },
@@ -163,7 +163,7 @@
           "content": "+ Klaviyo"
         },
         "klaviyo_list_id": {
-          "label": "Klaviyo list ID [Find a List ID](https://help.klaviyo.com/hc/en-us/articles/115005078647)"
+          "label": "Klaviyo list ID [Find a List ID](https:\/\/help.klaviyo.com\/hc\/en-us\/articles\/115005078647)"
         },
         "ajax_klaviyo": {
           "label": "Enable ajax Klaviyo subscribe form?"
@@ -172,7 +172,7 @@
           "content": "+ MailChimp"
         },
         "action_mailchimp": {
-          "label": "MailChimp form action URL [Learn More](https://secomapp.zendesk.com/hc/en-us/articles/360031503791-How-to-find-the-MailChimp-Form-Action-URL-)"
+          "label": "MailChimp form action URL [Learn More](https:\/\/secomapp.zendesk.com\/hc\/en-us\/articles\/360031503791-How-to-find-the-MailChimp-Form-Action-URL-)"
         },
         "ajax_mailChimp": {
           "label": "Enable ajax mailChimp subscribe form"
@@ -208,7 +208,7 @@
         },
         "timezone": {
           "label": "General timezone:",
-          "info": "[Get a name your timezone.](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)"
+          "info": "[Get a name your timezone.](https:\/\/en.wikipedia.org\/wiki\/List_of_tz_database_time_zones)"
         }
       }
     },
@@ -230,7 +230,7 @@
         },
         "logo_svg": {
           "label": "Logo SVG",
-          "info": "Copy link svg upload files. [Get link svg](https://cdn.shopify.com/s/files/1/0332/6420/5963/files/copy_link_svg.jpg?v=1647428667)"
+          "info": "Copy link svg upload files. [Get link svg](https:\/\/cdn.shopify.com\/s\/files\/1\/0332\/6420\/5963\/files\/copy_link_svg.jpg?v=1647428667)"
         },
         "logo": {
           "label": "Logo (required)",
@@ -267,7 +267,7 @@
         },
         "logo_tr_svg": {
           "label": "Logo SVG Transparent",
-          "info": "Copy link svg upload filess. [Get link svg](https://cdn.shopify.com/s/files/1/0332/6420/5963/files/copy_link_svg.jpg?v=1647428667)"
+          "info": "Copy link svg upload filess. [Get link svg](https:\/\/cdn.shopify.com\/s\/files\/1\/0332\/6420\/5963\/files\/copy_link_svg.jpg?v=1647428667)"
         },
         "logo_tr": {
           "label": "Logo Transparent",
@@ -401,7 +401,7 @@
           "content": "+ Shopify Font Settings"
         },
         "shopify_font_info": {
-          "content": "Selecting a different font can affect the speed of your store. [Learn more about system fonts.](https://help.shopify.com/en/manual/online-store/os/store-speed/improving-speed#fonts)"
+          "content": "Selecting a different font can affect the speed of your store. [Learn more about system fonts.](https:\/\/help.shopify.com\/en\/manual\/online-store\/os\/store-speed\/improving-speed#fonts)"
         },
         "fnt_fm_sp1": {
           "label": "Font Family #1"
@@ -413,7 +413,7 @@
           "label": "Font Family #3"
         },
         "google_font_header": {
-          "content": "+ Google Font Settings [Get name your google](https://fonts.google.com/)"
+          "content": "+ Google Font Settings [Get name your google](https:\/\/fonts.google.com\/)"
         },
         "fnt_fm_gg1": {
           "label": "Font Family #1"
@@ -488,7 +488,7 @@
           "info": "set is '0' use to default"
         },
         "custom_font_info": {
-          "content": "If you want to use custom font, please install [Fontify](https://apps.shopify.com/fontify-change-customize-font-for-your-store)."
+          "content": "If you want to use custom font, please install [Fontify](https:\/\/apps.shopify.com\/fontify-change-customize-font-for-your-store)."
         }
       }
     },
@@ -509,8 +509,8 @@
           "options": {
             "disable": "Disable",
             "local": "Enable wishlist local",
-            "account": "Enable wishlist account [Install EcomRise free](https://apps.shopify.com/ecomrise?utm_source=ecomus-intheme&utm_medium=wishlist&compare)",
-            "growave": "Enable growave wishlist [install here](https://growave.io/?ref=henry_pham)"
+            "account": "Enable wishlist account [Install EcomRise free](https:\/\/apps.shopify.com\/ecomrise?utm_source=ecomus-intheme&utm_medium=wishlist&compare)",
+            "growave": "Enable growave wishlist [install here](https:\/\/growave.io\/?ref=henry_pham)"
           }
         },
         "enable_css_wis": {
@@ -536,11 +536,11 @@
         "app_review": {
           "label": "Reviews app",
           "options": {
-            "ryviu": "Ryviu [install here](https://www.ryviu.com/?rel=3in5hrqs)",
-            "loox": "Loox reviews [install here](https://loox.io/app/The4)",
-            "growave": "Growave reviews [install here](https://growave.io/?ref=henry_pham)",
-            "lai": "LAI reviews [install here](https://partners.smartifyapps.com/apps/lai_reviews/the4)",
-            "other": "Other app [Instructions here](https://support.the4.co/articles/custom-review-app)"
+            "ryviu": "Ryviu [install here](https:\/\/www.ryviu.com\/?rel=3in5hrqs)",
+            "loox": "Loox reviews [install here](https:\/\/loox.io\/app\/The4)",
+            "growave": "Growave reviews [install here](https:\/\/growave.io\/?ref=henry_pham)",
+            "lai": "LAI reviews [install here](https:\/\/partners.smartifyapps.com\/apps\/lai_reviews\/the4)",
+            "other": "Other app [Instructions here](https:\/\/support.the4.co\/articles\/custom-review-app)"
           }
         },
         "badges_header": {
@@ -579,7 +579,7 @@
         },
         "use_custom_badge": {
           "label": "Use custom badge",
-          "info": "Elevate your sales with [Advanced Badges](https://apps.shopify.com/product-badges-label-design?utm_source=co_marketing&utm_medium=the4) – CRO boost!"
+          "info": "Elevate your sales with [Advanced Badges](https:\/\/apps.shopify.com\/product-badges-label-design?utm_source=co_marketing&utm_medium=the4) – CRO boost!"
         },
         "badge_colors_paragraph": {
           "content": "Badge colors"
@@ -617,11 +617,11 @@
         },
         "use_link_vendor": {
           "label": "Use collection link on vendor",
-          "info": "Allow removing 'vendor' in URL '/collection/vendor'. Note: Only active if exist a collection has the name same as the vendor of the product. [Learn more](https://support.the4.co/articles/how-to-use-the-collection-link-on-vendortype)"
+          "info": "Allow removing 'vendor' in URL '\/collection\/vendor'. Note: Only active if exist a collection has the name same as the vendor of the product. [Learn more](https:\/\/support.the4.co\/articles\/how-to-use-the-collection-link-on-vendortype)"
         },
         "use_link_type": {
           "label": "Use collection link on type",
-          "info": "Allow removing 'type' in URL '/collection/type'. Note: Only active if exist a collection has the name same as the type of the product. [Learn more](https://support.the4.co/articles/how-to-use-the-collection-link-on-vendortype)"
+          "info": "Allow removing 'type' in URL '\/collection\/type'. Note: Only active if exist a collection has the name same as the type of the product. [Learn more](https:\/\/support.the4.co\/articles\/how-to-use-the-collection-link-on-vendortype)"
         }
       }
     },
@@ -637,7 +637,7 @@
         },
         "within_cat": {
           "label": "Enable 'product url has link collection'",
-          "info": "Creates a collection-aware product URL by prepending /collections/collection-handle to a product URL, where collection-handle is the handle of the collection that is currently being viewed."
+          "info": "Creates a collection-aware product URL by prepending \/collections\/collection-handle to a product URL, where collection-handle is the handle of the collection that is currently being viewed."
         },
         "enable_quickview": {
           "label": "Enable quick view"
@@ -793,7 +793,7 @@
         },
         "date_in": {
           "label": "Date incoming format",
-          "info": "Date demo: 09/04/1994 (date/month/year)"
+          "info": "Date demo: 09\/04\/1994 (date\/month\/year)"
         },
         "variant_remove": {
           "label": "Variant sold out, unavailable swatches",
@@ -825,7 +825,7 @@
         },
         "min_qty": {
           "label": "Min quantity cart",
-          "info": "Minimum quantity value in cart page/cart sidebar. For example, if you set the value to 1, the user cannot reduce it to 0.",
+          "info": "Minimum quantity value in cart page\/cart sidebar. For example, if you set the value to 1, the user cannot reduce it to 0.",
           "options": {
             "0": "0",
             "1": "1"
@@ -1059,7 +1059,7 @@
         },
         "bootstrap_css": {
           "label": "Use bootstrap CSS",
-          "info": "When you need to include Bootstrap 5 CSS. But it will affect the speed of your store. [Document Bootstrap 5](https://getbootstrap.com/docs/5.2/layout/grid/)"
+          "info": "When you need to include Bootstrap 5 CSS. But it will affect the speed of your store. [Document Bootstrap 5](https:\/\/getbootstrap.com\/docs\/5.2\/layout\/grid\/)"
         },
         "colors_css_header": {
           "content": "+ Colors CSS"
@@ -1098,7 +1098,7 @@
           "content": "+ Custom JS"
         },
         "custom_js_paragraph": {
-          "content": "[Instructions to custom js](https://support.the4.co/articles/custom-css-js)"
+          "content": "[Instructions to custom js](https:\/\/support.the4.co\/articles\/custom-css-js)"
         },
         "t4s_custom_js": {
           "label": "Use custom js",
@@ -1138,55 +1138,55 @@
         },
         "social_facebook_link": {
           "label": "Facebook",
-          "info": "https://facebook.com/shopify"
+          "info": "https:\/\/facebook.com\/shopify"
         },
         "social_twitter_link": {
           "label": "Twitter",
-          "info": "https://twitter.com/shopify"
+          "info": "https:\/\/twitter.com\/shopify"
         },
         "social_instagram_link": {
           "label": "Instagram",
-          "info": "https://instagram.com/shopify"
+          "info": "https:\/\/instagram.com\/shopify"
         },
         "social_dribbble_link": {
           "label": "Dribbble",
-          "info": "https://dribbble.com/shopify"
+          "info": "https:\/\/dribbble.com\/shopify"
         },
         "social_linkedin_link": {
           "label": "Linkedin",
-          "info": "https://www.linkedin.com/company/shopify"
+          "info": "https:\/\/www.linkedin.com\/company\/shopify"
         },
         "social_pinterest_link": {
           "label": "Pinterest",
-          "info": "https://pinterest.com/shopify"
+          "info": "https:\/\/pinterest.com\/shopify"
         },
         "social_tumblr_link": {
           "label": "Tumblr",
-          "info": "https://www.tumblr.com"
+          "info": "https:\/\/www.tumblr.com"
         },
         "social_snapchat_link": {
           "label": "Snapchat",
-          "info": "https://www.snapchat.com/add/shopify"
+          "info": "https:\/\/www.snapchat.com\/add\/shopify"
         },
         "social_youtube_link": {
           "label": "YouTube",
-          "info": "https://www.youtube.com/shopify"
+          "info": "https:\/\/www.youtube.com\/shopify"
         },
         "social_vimeo_link": {
           "label": "Vimeo",
-          "info": "https://vimeo.com/shopify"
+          "info": "https:\/\/vimeo.com\/shopify"
         },
         "social_behance_link": {
           "label": "Behance",
-          "info": "https://www.behance.net/gallery/62806021/Shopify"
+          "info": "https:\/\/www.behance.net\/gallery\/62806021\/Shopify"
         },
         "social_soundcloud_link": {
           "label": "Soundcloud",
-          "info": "https://soundcloud.com/shopify"
+          "info": "https:\/\/soundcloud.com\/shopify"
         },
         "social_tiktok_link": {
           "label": "Tiktok",
-          "info": "https://tiktok.com/@shopify"
+          "info": "https:\/\/tiktok.com\/@shopify"
         },
         "social_threads_link": {
           "label": "Threads"
@@ -1214,4 +1214,4 @@
       "settings": {}
     }
   }
-} 
+}

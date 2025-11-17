@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
     "breadcrumb": {
@@ -50,7 +41,7 @@
           "type": "description",
           "settings": {
             "des": "2",
-            "text": "<p>Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.</p>",
+            "text": "<p>Go kalles this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish kalles vibe.<\/p>",
             "readm": false,
             "length": 31,
             "readm_txt": "Read more"
@@ -99,7 +90,7 @@
             "mess": "",
             "size": 16,
             "source": "1",
-            "image": "shopify://shop_images/trust_img2_2eeb3a29-a319-4587-a399-d448de7e8c33.png",
+            "image": "shopify:\/\/shop_images\/trust_img2_2eeb3a29-a319-4587-a399-d448de7e8c33.png",
             "wimg": 70,
             "svg": "amazon_payments,american_express,apple_pay,bitcoin,dankort,diners_club,discover,dogecoin,dwolla,forbrugsforeningen,interac,google_pay,jcb,klarna,klarna-pay-later,litecoin,maestro,master,paypal,shopify_pay,sofort,visa",
             "height": 11
@@ -319,7 +310,7 @@
           "settings": {
             "title": "Shipping & Delivery",
             "shipping_1": "las la-truck,FREE SHIPPING,Free shipping for all US order",
-            "shipping_2": "las la-headset,SUPPORT 24/7,We support 24 hours a day",
+            "shipping_2": "las la-headset,SUPPORT 24\/7,We support 24 hours a day",
             "shipping_3": "las la-exchange-alt,30 DAYS RETURN,You have 30 days to return",
             "shipping_4": "",
             "shipping_5": "",
@@ -332,7 +323,7 @@
             "b_link": "",
             "open_link": "_self",
             "img_effect": "none",
-            "date": "2022/12/26",
+            "date": "2022\/12\/26",
             "content_align": "center",
             "cdt_des": "2",
             "countdown_pos": "2",

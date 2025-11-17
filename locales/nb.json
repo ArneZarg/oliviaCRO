@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "meta": {
@@ -23,7 +14,7 @@
       "loading": "Laster...",
       "pswp_share": "Del",
       "pswp_fs": "Bytt til fullskjerm",
-      "pswp_zoom": "Zoom inn/ut",
+      "pswp_zoom": "Zoom inn\/ut",
       "pswp_facebook": "Del på Facebook",
       "pswp_twitter": "Kvitre",
       "pswp_pinterest": "Fest den",
@@ -58,7 +49,7 @@
       "wishlist": "Ønskeliste",
       "compare": "Sammenlign",
       "search": "Søk",
-      "login_register": "Logg inn / Registrer deg",
+      "login_register": "Logg inn \/ Registrer deg",
       "my_account": "Min konto"
     },
     "sidebar": {
@@ -118,7 +109,7 @@
       "view_all": "Vis alle",
       "load_more": "Last inn flere innlegg",
       "load_prev": "Last inn forrige",
-      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}</span> av {{ total_count }} innlegg"
+      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}<\/span> av {{ total_count }} innlegg"
     },
     "article": {
       "by": "Av",
@@ -137,7 +128,7 @@
     },
     "comments": {
       "title": "Legg igjen en kommentar",
-      "comments_note_html": "Din e-postadresse vil ikke bli publisert. Obligatoriske felt er merket <span class=\"required\">*</span>",
+      "comments_note_html": "Din e-postadresse vil ikke bli publisert. Obligatoriske felt er merket <span class=\"required\">*<\/span>",
       "name": "Navn",
       "email": "E-post",
       "message": "Kommentar",
@@ -158,14 +149,14 @@
         "other": "{{ count }} kommentarer"
       },
       "with_count_html": {
-        "zero": "0 <span>kommentar</span>",
-        "one": "1 <span>kommentar</span>",
-        "other": "{{ count }} <span>kommentarer</span>"
+        "zero": "0 <span>kommentar<\/span>",
+        "one": "1 <span>kommentar<\/span>",
+        "other": "{{ count }} <span>kommentarer<\/span>"
       },
       "comments_title_html": {
-        "zero": "0 tanker om “<span>{{ title }}</span>”",
-        "one": "1 tanke om “<span>{{ title }}</span>”",
-        "other": "{{ count }} tanker om “<span>{{ title }}</span>”"
+        "zero": "0 tanker om “<span>{{ title }}<\/span>”",
+        "one": "1 tanke om “<span>{{ title }}<\/span>”",
+        "other": "{{ count }} tanker om “<span>{{ title }}<\/span>”"
       }
     }
   },
@@ -175,7 +166,7 @@
     "pagination": {
       "load_more": "Last inn mer",
       "load_prev": "Last inn forrige",
-      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}</span> av {{ total_count }} samlinger"
+      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}<\/span> av {{ total_count }} samlinger"
     }
   },
   "collections": {
@@ -190,10 +181,9 @@
       "view_all": "Vis alle",
       "load_more": "Last inn mer",
       "load_prev": "Last inn forrige",
-      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}</span> av {{ total_count }} produkter"
+      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}<\/span> av {{ total_count }} produkter"
     }
   },
-
   "products": {
     "aria_label": {
       "select_option": "Velg alternativer for “{{ product_title }}”",
@@ -216,8 +206,8 @@
     },
     "product": {
       "include_taxes": "Mva inkludert.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt</a> beregnes ved utsjekking.",
-      "from_price_html": "<span class=\"{{ class }}\">Fra</span> {{ price_min }}",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt<\/a> beregnes ved utsjekking.",
+      "from_price_html": "<span class=\"{{ class }}\">Fra<\/span> {{ price_min }}",
       "please_choose_pr_options": "Vennligst velg noen produktalternativer før du legger til dette produktet i handlekurven din.",
       "choose_an_option": "Velg et alternativ",
       "add_to_cart": "Legg til i handlekurven",
@@ -235,7 +225,7 @@
       "product_type": "Type:",
       "product_sku": "SKU:",
       "product_barcode": "Strekkode:",
-      "na": "N/A",
+      "na": "N\/A",
       "available": "Tilgjengelighet:",
       "in_stock_status": "På lager",
       "pre_oder_status": "Forhåndsbestilling",
@@ -287,8 +277,8 @@
       "view_in_space_label": "Vis i ditt rom, laster element i forsterket virkelighet-vindu",
       "view_360": "360 produktvisning",
       "click_zoom": "Klikk for å forstørre",
-      "will_not_ship_until_html": "Vil ikke bli sendt før <span data-incoming-date>{{ date }}</span>",
-      "will_be_in_stock_after_html": "Vil være på lager etter <span data-incoming-date>{{ date }}</span>"
+      "will_not_ship_until_html": "Vil ikke bli sendt før <span data-incoming-date>{{ date }}<\/span>",
+      "will_be_in_stock_after_html": "Vil være på lager etter <span data-incoming-date>{{ date }}<\/span>"
     },
     "fbt": {
       "title": "Ofte kjøpt sammen",
@@ -317,14 +307,13 @@
       "title_price": "Pris",
       "button_price": "Filtrer",
       "results_with_count_html": {
-        "zero": "<span class=\"cp\">0</span> Produkter funnet",
-        "one": "<span class=\"cp\">1</span> Produkt funnet",
-        "other": "<span class=\"cp\">{{ count }}</span> Produkter funnet"
+        "zero": "<span class=\"cp\">0<\/span> Produkter funnet",
+        "one": "<span class=\"cp\">1<\/span> Produkt funnet",
+        "other": "<span class=\"cp\">{{ count }}<\/span> Produkter funnet"
       },
       "clear_filter": "Tøm filtrer"
     }
   },
-
   "search": {
     "general": {
       "title": "Søk på nettstedet vårt",
@@ -352,7 +341,7 @@
       "view_all": "Vis alt",
       "load_more": "Last mer",
       "load_prev": "Last forrige",
-      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}</span> av {{ total_count }} produkter"
+      "bar_with_count_html": "Du har sett <span data-current-bar>{{ current_count }}<\/span> av {{ total_count }} produkter"
     },
     "results_with_term": {
       "zero": "Søkeresultat for: “{{ terms }}”",
@@ -374,14 +363,14 @@
       },
       "cookies_required": "Aktiver informasjonskapsler for å bruke handlekurven",
       "taxes_and_shipping_at_checkout": "Mva og frakt beregnes ved utsjekking",
-      "taxes_and_shipping_policy_at_checkout_html": "Mva og <a href=\"{{ link }}\" target=\"_blank\">frakt</a> beregnes ved utsjekking",
+      "taxes_and_shipping_policy_at_checkout_html": "Mva og <a href=\"{{ link }}\" target=\"_blank\">frakt<\/a> beregnes ved utsjekking",
       "taxes_included_but_shipping_at_checkout": "Mva inkludert og frakt beregnes ved utsjekking",
-      "taxes_included_and_shipping_policy_html": "Mva inkludert. <a href=\"{{ link }}\" target=\"_blank\">Frakt</a> beregnes ved utsjekking.",
+      "taxes_included_and_shipping_policy_html": "Mva inkludert. <a href=\"{{ link }}\" target=\"_blank\">Frakt<\/a> beregnes ved utsjekking.",
       "taxes_discounts_and_shipping_at_checkout": "Mva, frakt og rabattkoder beregnes ved utsjekking",
-      "taxes_discounts_and_shipping_policy_at_checkout_html": "Mva, <a href=\"{{ link }}\" target=\"_blank\">frakt</a> og rabattkoder beregnes ved utsjekking",
+      "taxes_discounts_and_shipping_policy_at_checkout_html": "Mva, <a href=\"{{ link }}\" target=\"_blank\">frakt<\/a> og rabattkoder beregnes ved utsjekking",
       "taxes_included_discounts_but_shipping_at_checkout": "Mva inkludert. Frakt og rabattkoder beregnes ved utsjekking",
-      "taxes_included_discounts_and_shipping_policy_html": "Mva inkludert. <a href=\"{{ link }}\" target=\"_blank\">Frakt</a> og rabattkoder beregnes ved utsjekking.",
-      "terms_and_conditions_html": "Jeg godtar <a href=\"{{ link }}\" target=\"_blank\">vilkårene og betingelsene</a>.",
+      "taxes_included_discounts_and_shipping_policy_html": "Mva inkludert. <a href=\"{{ link }}\" target=\"_blank\">Frakt<\/a> og rabattkoder beregnes ved utsjekking.",
+      "terms_and_conditions_html": "Jeg godtar <a href=\"{{ link }}\" target=\"_blank\">vilkårene og betingelsene<\/a>.",
       "terms_and_conditions": "Jeg godtar vilkårene og betingelsene.",
       "edit_item": "Rediger dette elementet",
       "remove_item": "Fjern dette elementet",
@@ -394,7 +383,7 @@
       "note": "Legg til ordrenotat",
       "edit_note": "Rediger ordrenotat",
       "placeholder_note": "Hvordan kan vi hjelpe deg?",
-      "gift_wrap_html": "<span class=\"cd\">Ønsker du gaveinnpakning?</span> Kun {{ money }}",
+      "gift_wrap_html": "<span class=\"cd\">Ønsker du gaveinnpakning?<\/span> Kun {{ money }}",
       "add_gift_wrap": "Legg til gaveinnpakning",
       "coupon": "Kupong:",
       "add_coupon": "Legg til kupong",
@@ -414,8 +403,8 @@
       "errors": "Det er noen feil:"
     },
     "shipping_threshold": {
-      "text_1_html": "Gratis frakt for alle bestillinger over <span class=\"t4s-cr\">{{ money }}</span>",
-      "text_2_html": "Nesten der, legg til <span class=\"t4s-cr\">{{ money }}</span> mer for å få <span class=\"t4s-ch\">GRATIS FRAKT!</span>",
+      "text_1_html": "Gratis frakt for alle bestillinger over <span class=\"t4s-cr\">{{ money }}<\/span>",
+      "text_2_html": "Nesten der, legg til <span class=\"t4s-cr\">{{ money }}<\/span> mer for å få <span class=\"t4s-ch\">GRATIS FRAKT!<\/span>",
       "text_3": "[Gratulerer!] Du har fått gratis frakt!"
     },
     "mini_cart": {
@@ -436,7 +425,7 @@
         "total": "Totalt"
       },
       "empty": "Handlekurven din er tom.",
-      "empty_html": "Før du fortsetter til kassen, må du legge til noen produkter i handlekurven din.<br /> Du vil finne mange interessante produkter på vår \"Butikk\"-side.",
+      "empty_html": "Før du fortsetter til kassen, må du legge til noen produkter i handlekurven din.<br \/> Du vil finne mange interessante produkter på vår \"Butikk\"-side.",
       "subtotal": "Delsum:",
       "checkout": "Gå til kassen",
       "update": "Oppdater handlekurv"
@@ -457,7 +446,7 @@
     "404": {
       "title": "404",
       "subtext": "Beklager! Siden du leter etter kan ikke bli funnet.",
-      "link_html": "Gå tilbake til <a href=\"{{ link }}\" rel=\"home\">hjemmesiden</a>"
+      "link_html": "Gå tilbake til <a href=\"{{ link }}\" rel=\"home\">hjemmesiden<\/a>"
     }
   },
   "sections": {
@@ -490,7 +479,7 @@
     },
     "agree_mail": {
       "conditions": "Du må godta vilkårene og betingelsene for å registrere deg.",
-      "link_conditions_html": "Jeg godtar <a href=\"{{ link }}\" class=\"t4s-text__link\">vilkårene og betingelsene</a>.",
+      "link_conditions_html": "Jeg godtar <a href=\"{{ link }}\" class=\"t4s-text__link\">vilkårene og betingelsene<\/a>.",
       "link_conditions_emty": "Jeg godtar vilkårene og betingelsene."
     },
     "footer": {}
@@ -503,7 +492,7 @@
       "title": "MIN KONTO",
       "make_order": "Gjør din første bestilling",
       "none": "Du har ikke plassert noen bestillinger ennå.",
-      "hello_html": "Hei <strong>{{ name }}</strong> (ikke <strong>{{ name }}</strong>? <a href=\"{{ link }}\">Logg ut</a>)",
+      "hello_html": "Hei <strong>{{ name }}<\/strong> (ikke <strong>{{ name }}<\/strong>? <a href=\"{{ link }}\">Logg ut<\/a>)",
       "manage_subs": "Administrer abonnementer",
       "dashboard": "Dashbord",
       "wishlist": "Ønskeliste",
@@ -542,7 +531,7 @@
       "address1": "Adresse",
       "address2": "Leilighet, suite, osv.",
       "city": "By",
-      "country": "Land/region",
+      "country": "Land\/region",
       "province": "Provins",
       "zip": "Postnummer",
       "phone": "Telefon",
@@ -624,7 +613,7 @@
       "password": "Passord",
       "submit": "Registrer",
       "privacy_policy": "Dine personlige data vil bli brukt til å støtte opplevelsen din på dette nettstedet, administrere tilgangen til kontoen din og for andre formål beskrevet i personvernerklæringen vår.",
-      "privacy_policy_html": "Dine personlige data vil bli brukt til å støtte opplevelsen din på dette nettstedet, administrere tilgangen til kontoen din og for andre formål beskrevet i vår <a href=\"{{ link }}\" class=\"privacy-policy-link fwm\" target=\"_blank\">personvernerklæring</a>."
+      "privacy_policy_html": "Dine personlige data vil bli brukt til å støtte opplevelsen din på dette nettstedet, administrere tilgangen til kontoen din og for andre formål beskrevet i vår <a href=\"{{ link }}\" class=\"privacy-policy-link fwm\" target=\"_blank\">personvernerklæring<\/a>."
     }
   },
   "password_page": {
@@ -634,20 +623,20 @@
     "login_form_password_placeholder": "Ditt passord",
     "login_form_submit": "Skriv inn",
     "signup_form_success": "Vi vil sende deg en e-post rett før vi åpner!",
-    "admin_link_html": "Er du butikkeieren? <a href=\"/admin\" class=\"text-link\">Logg inn her</a>",
+    "admin_link_html": "Er du butikkeieren? <a href=\"\/admin\" class=\"text-link\">Logg inn her<\/a>",
     "password_link": "Skriv inn ved hjelp av passord"
   },
   "wishlist_page": {
     "meta": "Min Ønskeliste Side",
     "title": "Ønskeliste",
     "empty": "Ønskelisten er tom.",
-    "empty_html": "Du har ikke noen produkter i ønskelisten ennå.<br /> Du vil finne mange interessante produkter på vår \"Butikk\"-side."
+    "empty_html": "Du har ikke noen produkter i ønskelisten ennå.<br \/> Du vil finne mange interessante produkter på vår \"Butikk\"-side."
   },
   "compare_page": {
     "meta": "Min Sammenligning Side",
     "title": "Sammenlign",
     "empty": "SAMMENLIGNINGSLISTEN ER TOM.",
-    "empty_html": "Ingen produkter er lagt til i sammenligningslisten. Du må legge til noen produkter for å sammenligne dem.<br /> Du vil finne mange interessante produkter på vår \"Butikk\"-side.",
+    "empty_html": "Ingen produkter er lagt til i sammenligningslisten. Du må legge til noen produkter for å sammenligne dem.<br \/> Du vil finne mange interessante produkter på vår \"Butikk\"-side.",
     "remove": "Fjern",
     "in_stock": "På lager",
     "outofstock": "Ikke på lager"
@@ -670,8 +659,8 @@
       "check_other_stores": "Sjekk tilgjengelighet i andre butikker",
       "pick_up_available": "Henting tilgjengelig",
       "pick_up_currently_unavailable": "Henting for øyeblikket utilgjengelig",
-      "pick_up_available_at_html": "Henting tilgjengelig på <strong>{{ location_name }}</strong>",
-      "pick_up_unavailable_at_html": "Henting for øyeblikket utilgjengelig på <strong>{{ location_name }}</strong>",
+      "pick_up_available_at_html": "Henting tilgjengelig på <strong>{{ location_name }}<\/strong>",
+      "pick_up_unavailable_at_html": "Henting for øyeblikket utilgjengelig på <strong>{{ location_name }}<\/strong>",
       "check_map": "Sjekk dette på google kart"
     }
   },

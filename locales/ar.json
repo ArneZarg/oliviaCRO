@@ -1,12 +1,3 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin language editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "general": {
     "meta": {
@@ -185,8 +176,7 @@
       "sort_button": "ترتيب",
       "filter_button": "تصفية"
     },
-    "filter": {
-    },
+    "filter": {},
     "pagination": {
       "view_all": "عرض الكل",
       "load_more": "تحميل المزيد",
@@ -489,7 +479,7 @@
     },
     "agree_mail": {
       "conditions": "يجب أن توافق على الشروط والأحكام للتسجيل.",
-      "link_conditions_html": "أوافق على <a href=\"{{ link }}\" class=\"t4s-text__link\">الشروط والأحكام</a>.",
+      "link_conditions_html": "أوافق على <a href=\"{{ link }}\" class=\"t4s-text__link\">الشروط والأحكام<\/a>.",
       "link_conditions_emty": "أوافق على الشروط والأحكام."
     },
     "footer": {}
@@ -502,7 +492,7 @@
       "title": "حسابي",
       "make_order": "قم بطلبك الأول",
       "none": "لم تقم بتقديم أي طلب حتى الآن.",
-      "hello_html": "مرحبًا <strong>{{ name }}</strong> (ليس <strong>{{ name }}</strong>؟ <a href=\"{{ link }}\">تسجيل الخروج</a>)",
+      "hello_html": "مرحبًا <strong>{{ name }}<\/strong> (ليس <strong>{{ name }}<\/strong>؟ <a href=\"{{ link }}\">تسجيل الخروج<\/a>)",
       "manage_subs": "إدارة الاشتراكات",
       "dashboard": "لوحة التحكم",
       "wishlist": "قائمة الرغبات",
@@ -541,7 +531,7 @@
       "address1": "العنوان",
       "address2": "الشقة، الجناح، إلخ.",
       "city": "المدينة",
-      "country": "الدولة/المنطقة",
+      "country": "الدولة\/المنطقة",
       "province": "المحافظة",
       "zip": "الرمز البريدي",
       "phone": "الهاتف",
@@ -623,7 +613,7 @@
       "password": "كلمة المرور",
       "submit": "التسجيل",
       "privacy_policy": "سيتم استخدام بياناتك الشخصية لدعم تجربتك على هذا الموقع، وإدارة وصولك إلى حسابك، ولأغراض أخرى موضحة في سياسة الخصوصية لدينا.",
-      "privacy_policy_html": "سيتم استخدام بياناتك الشخصية لدعم تجربتك على هذا الموقع، وإدارة وصولك إلى حسابك، ولأغراض أخرى موضحة في <a href=\"{{ link }}\" class=\"privacy-policy-link fwm\" target=\"_blank\">سياسة الخصوصية لدينا</a>."
+      "privacy_policy_html": "سيتم استخدام بياناتك الشخصية لدعم تجربتك على هذا الموقع، وإدارة وصولك إلى حسابك، ولأغراض أخرى موضحة في <a href=\"{{ link }}\" class=\"privacy-policy-link fwm\" target=\"_blank\">سياسة الخصوصية لدينا<\/a>."
     }
   },
   "password_page": {
@@ -633,20 +623,20 @@
     "login_form_password_placeholder": "كلمة المرور الخاصة بك",
     "login_form_submit": "دخول",
     "signup_form_success": "سنرسل لك بريدًا إلكترونيًا قبل أن نفتح!",
-    "admin_link_html": "هل أنت صاحب المتجر؟ <a href=\"/admin\" class=\"text-link\">قم بتسجيل الدخول هنا</a>",
+    "admin_link_html": "هل أنت صاحب المتجر؟ <a href=\"\/admin\" class=\"text-link\">قم بتسجيل الدخول هنا<\/a>",
     "password_link": "الدخول باستخدام كلمة المرور"
   },
   "wishlist_page": {
     "meta": "صفحة قائمة الرغبات الخاصة بي",
     "title": "قائمة الرغبات",
     "empty": "قائمة الرغبات فارغة.",
-    "empty_html": "ليس لديك أي منتجات في قائمة الرغبات حتى الآن.<br /> ستجد العديد من المنتجات المثيرة على صفحتنا \"المتجر\"."
+    "empty_html": "ليس لديك أي منتجات في قائمة الرغبات حتى الآن.<br \/> ستجد العديد من المنتجات المثيرة على صفحتنا \"المتجر\"."
   },
   "compare_page": {
     "meta": "صفحة المقارنة الخاصة بي",
     "title": "المقارنة",
     "empty": "قائمة المقارنة فارغة.",
-    "empty_html": "لم يتم إضافة أي منتجات إلى قائمة المقارنة. يجب عليك إضافة بعض المنتجات لمقارنتها.<br /> ستجد العديد من المنتجات المثيرة على صفحتنا \"المتجر\".",
+    "empty_html": "لم يتم إضافة أي منتجات إلى قائمة المقارنة. يجب عليك إضافة بعض المنتجات لمقارنتها.<br \/> ستجد العديد من المنتجات المثيرة على صفحتنا \"المتجر\".",
     "remove": "إزالة",
     "in_stock": "متوفر",
     "outofstock": "غير متوفر"
@@ -669,8 +659,8 @@
       "check_other_stores": "تحقق من التوفر في المتاجر الأخرى",
       "pick_up_available": "الاستلام متاح",
       "pick_up_currently_unavailable": "الاستلام غير متاح حاليًا",
-      "pick_up_available_at_html": "الاستلام متاح في <strong>{{ location_name }}</strong>",
-      "pick_up_unavailable_at_html": "الاستلام غير متاح حاليًا في <strong>{{ location_name }}</strong>",
+      "pick_up_available_at_html": "الاستلام متاح في <strong>{{ location_name }}<\/strong>",
+      "pick_up_unavailable_at_html": "الاستلام غير متاح حاليًا في <strong>{{ location_name }}<\/strong>",
       "check_map": "تحقق من ذلك على خريطة Google"
     }
   },

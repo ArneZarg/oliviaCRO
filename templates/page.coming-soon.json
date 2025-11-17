@@ -1,1 +1,290 @@
-{"sections":{"heading":{"type":"heading-template","disabled":true,"settings":{"heading_fullwidth":false,"use_specify_image":true,"parallax":false,"color":"#000000","overlay":54,"padding":50,"paddingmb":50,"mg_b":50,"mg_bmb":50,"content_align":"t4s-text-center","bg_pos":"center center","bg_repeat":"no-repeat","bg_size":"cover","use_cus_css":false,"code_cus_css":".SectionID {\nbackground-color:red\n}"}},"main":{"type":"main-page","disabled":true,"settings":{"layout":"t4s-container-wrap","cl_bg":"","cl_bg_gradient":"","mg":"60px,,60px,","pd":"","mg_tb":"","pd_tb":"","mg_mb":",,30px,","pd_mb":""}},"sidebar-page":{"type":"sidebar-page","blocks":{"f69681ed-b75e-42de-be58-fdf73b3b7e08":{"type":"blog_cate","settings":{"title":"Blog categories","cat_link_list":"","count":true}}},"block_order":["f69681ed-b75e-42de-be58-fdf73b3b7e08"],"disabled":true,"settings":{"enable_drawer":false,"space":50,"size":"medium","br_style":"none","brcolor":"#222222","sidebar_bdr":5,"sidebar_pd":10}},"slideshow_Re4dMH":{"type":"slideshow","blocks":{"custom_text_rjtLPd":{"type":"custom_text","settings":{"text":"","remove_br_tag":false,"tag":"p","fontf":"inherit","text_cl":"#ffffff","text_fs":70,"text_lh":70,"text_fw":300,"text_ls":0,"text_mgb":25,"font_italic":false,"text_shadow":false,"hidden_mobile":false,"text_fs_mb":36,"text_lh_mb":40,"text_ls_mb":0,"text_mgb_mobile":10,"animation":"none"}},"custom_text_rdYtRa":{"type":"custom_text","settings":{"text":"","remove_br_tag":false,"tag":"p","fontf":"inherit","text_cl":"#ffffff","text_fs":16,"text_lh":20,"text_fw":400,"text_ls":1,"text_mgb":15,"font_italic":false,"text_shadow":false,"hidden_mobile":false,"text_fs_mb":16,"text_lh_mb":20,"text_ls_mb":0,"text_mgb_mobile":10,"animation":"none"}},"custom_button_DU9U3f":{"type":"custom_button","settings":{"button_text":"Button label","button_link":"","target_link":"_self","fontf":"inherit","button_icon_w":0,"button_style":"default","button_effect":"default","pri_cl":"#222222","second_cl":"","pri_cl_hover":"#56cfe1","second_cl_hover":"#ffffff","fsbutton":14,"fwbutton":400,"button_ls":0,"button_mh":42,"button_bdr":0,"button_pd_lr":20,"button_mgb":0,"hidden_mobile":false,"button_icon_w_mb":0,"fsbutton_mb":10,"button_mh_mb":36,"button_pd_lr_mb":15,"button_ls_mb":0,"button_mgb_mb":0,"animation":"none"}}},"block_order":["custom_text_rjtLPd","custom_text_rdYtRa","custom_button_DU9U3f"],"name":"Slideshow","settings":{"se_height":"t4s_ratio_cuspx","custom_dk":true,"height_dk":600,"custom_tb":true,"height_tb":400,"custom_mb":true,"height_mb":250,"eff":"slide","loop":true,"au_time":0,"au_hover":true,"nav_btn":false,"btn_vi":"hover","btn_owl":"default","btn_icon":"0","btn_shape":"none","btn_cl":"dark","btn_size":"small","btn_hidden_mobile":false,"nav_dot":false,"dot_owl":"default","dots_position":"default","dots_cl":"dark","dots_round":false,"dots_space":10,"dots_hidden_mobile":false,"layout":"t4s-container-fluid","cl_bg":"","cl_bg_gradient":"","mg":",,0px,","pd":"","mg_tb":"","pd_tb":"","mg_mb":",,0px,","pd_mb":"","use_cus_css":false,"code_cus_css":""}},"image_text_Rgfpia":{"type":"image_text","blocks":{"bl_image_wnFydt":{"type":"bl_image","settings":{"image1":"shopify:\/\/shop_images\/Screenshot_2025-09-09_at_10.57.07_AM.png","col_dk":"6","col_tb":"6","layout_des":"carousel","post_mobile":"default","image_ratio":"ratioadapt","image_size":"cover","image_position":"8","loop":true,"au_time":0,"au_hover":true,"nav_btn":false,"btn_vi":"hover","btn_owl":"default","btn_shape":"none","btn_cl":"dark","btn_size":"small","btn_hidden_mobile":true,"nav_dot":false,"dot_owl":"default","dots_cl":"dark","dots_round":true,"dots_space":10,"dots_hidden_mobile":false}}},"block_order":["bl_image_wnFydt"],"name":"Image with text","settings":{"design_heading":"2","heading_align":"t4s-text-center","top_heading":"About","icon_heading":"las la-gem","top_subheading":"","tophead_mb":30,"space_h_item":"20","space_v_item":"10","space_h_item_mb":"20","space_v_item_mb":"10","layout":"t4s-container-wrap","cl_bg":"","cl_bg_gradient":"","mg":",,50px,","pd":"","mg_tb":"","pd_tb":"","mg_mb":",,30px,","pd_mb":"","use_cus_css":false,"code_cus_css":""}},"image_text_xdAWck":{"type":"image_text","name":"Image with text","settings":{"design_heading":"1","heading_align":"t4s-text-center","top_heading":"","icon_heading":"las la-gem","top_subheading":"My work is guided by heritage techniques, hand engraving, goldsmithing, and fine stone setting but my intention is always to create jewelry that feels alive in the present. Every piece begins with a story. It is shaped by the lineage of craft passed down through my family, yet transformed into something wholly my own. Jewelry, to me, is not just ornament, it is memory, connection, and meaning made tangible.\n\nI create for those who value intention over trend, who seek objects that speak to individuality and endure beyond seasons. My collectors come to me for pieces that feel deeply personal; an engagement ring that marks a singular love, an heirloom meant to be worn every day, or a talisman that honors a milestone. What unites them is a desire for jewelry that holds soul: objects that feel as if they carry both history and possibility.\n\nEach piece I make bridges eras, an heirloom made new, timeless in craft but resonant with a modern spirit. I want my work to live with the wearer, gathering their stories as much as it carries mine. In this way, jewelry becomes more than adornment; it becomes a vessel for memory, a marker of identity, a quiet but enduring inheritance.\n\nThe impact I hope for is simple yet lasting: to preserve the power of heritage craft while creating objects that become inseparable from the lives they touch. My vision is for each piece to feel like a living story rooted in tradition, shaped by hand, and made to carry forward into the future","tophead_mb":30,"space_h_item":"20","space_v_item":"10","space_h_item_mb":"20","space_v_item_mb":"10","layout":"t4s-container-wrap","cl_bg":"","cl_bg_gradient":"","mg":",,50px,","pd":"","mg_tb":"","pd_tb":"","mg_mb":",,30px,","pd_mb":"","use_cus_css":false,"code_cus_css":""}}},"order":["heading","main","sidebar-page","slideshow_Re4dMH","image_text_Rgfpia","image_text_xdAWck"]}
+{
+  "sections": {
+    "heading": {
+      "type": "heading-template",
+      "disabled": true,
+      "settings": {
+        "heading_fullwidth": false,
+        "use_specify_image": true,
+        "parallax": false,
+        "color": "#000000",
+        "overlay": 54,
+        "padding": 50,
+        "paddingmb": 50,
+        "mg_b": 50,
+        "mg_bmb": 50,
+        "content_align": "t4s-text-center",
+        "bg_pos": "center center",
+        "bg_repeat": "no-repeat",
+        "bg_size": "cover",
+        "use_cus_css": false,
+        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "60px,,60px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
+    },
+    "sidebar-page": {
+      "type": "sidebar-page",
+      "blocks": {
+        "f69681ed-b75e-42de-be58-fdf73b3b7e08": {
+          "type": "blog_cate",
+          "settings": {
+            "title": "Blog categories",
+            "cat_link_list": "",
+            "count": true
+          }
+        }
+      },
+      "block_order": [
+        "f69681ed-b75e-42de-be58-fdf73b3b7e08"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_drawer": false,
+        "space": 50,
+        "size": "medium",
+        "br_style": "none",
+        "brcolor": "#222222",
+        "sidebar_bdr": 5,
+        "sidebar_pd": 10
+      }
+    },
+    "slideshow_Re4dMH": {
+      "type": "slideshow",
+      "blocks": {
+        "custom_text_rjtLPd": {
+          "type": "custom_text",
+          "settings": {
+            "text": "",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 70,
+            "text_lh": 70,
+            "text_fw": 300,
+            "text_ls": 0,
+            "text_mgb": 25,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 36,
+            "text_lh_mb": 40,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
+        "custom_text_rdYtRa": {
+          "type": "custom_text",
+          "settings": {
+            "text": "",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#ffffff",
+            "text_fs": 16,
+            "text_lh": 20,
+            "text_fw": 400,
+            "text_ls": 1,
+            "text_mgb": 15,
+            "font_italic": false,
+            "text_shadow": false,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 20,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10,
+            "animation": "none"
+          }
+        },
+        "custom_button_DU9U3f": {
+          "type": "custom_button",
+          "settings": {
+            "button_text": "Button label",
+            "button_link": "",
+            "target_link": "_self",
+            "fontf": "inherit",
+            "button_icon_w": 0,
+            "button_style": "default",
+            "button_effect": "default",
+            "pri_cl": "#222222",
+            "second_cl": "",
+            "pri_cl_hover": "#56cfe1",
+            "second_cl_hover": "#ffffff",
+            "fsbutton": 14,
+            "fwbutton": 400,
+            "button_ls": 0,
+            "button_mh": 42,
+            "button_bdr": 0,
+            "button_pd_lr": 20,
+            "button_mgb": 0,
+            "hidden_mobile": false,
+            "button_icon_w_mb": 0,
+            "fsbutton_mb": 10,
+            "button_mh_mb": 36,
+            "button_pd_lr_mb": 15,
+            "button_ls_mb": 0,
+            "button_mgb_mb": 0,
+            "animation": "none"
+          }
+        }
+      },
+      "block_order": [
+        "custom_text_rjtLPd",
+        "custom_text_rdYtRa",
+        "custom_button_DU9U3f"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "se_height": "t4s_ratio_cuspx",
+        "custom_dk": true,
+        "height_dk": 600,
+        "custom_tb": true,
+        "height_tb": 400,
+        "custom_mb": true,
+        "height_mb": 250,
+        "eff": "slide",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_icon": "0",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": false,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_position": "default",
+        "dots_cl": "dark",
+        "dots_round": false,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,0px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,0px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "image_text_Rgfpia": {
+      "type": "image_text",
+      "blocks": {
+        "bl_image_wnFydt": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/Screenshot_2025-09-09_at_10.57.07_AM.png",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "bl_image_wnFydt"
+      ],
+      "name": "Image with text",
+      "settings": {
+        "design_heading": "2",
+        "heading_align": "t4s-text-center",
+        "top_heading": "About",
+        "icon_heading": "las la-gem",
+        "top_subheading": "My work is guided by heritage techniques, hand engraving, goldsmithing, and fine stone setting but my intention is always to create jewelry that feels alive in the present. Every piece begins with a story. It is shaped by the lineage of craft passed down through my family, yet transformed into something wholly my own. Jewelry, to me, is not just ornament, it is memory, connection, and meaning made tangible.\n\nI create for those who value intention over trend, who seek objects that speak to individuality and endure beyond seasons. My collectors come to me for pieces that feel deeply personal; an engagement ring that marks a singular love, an heirloom meant to be worn every day, or a talisman that honors a milestone. What unites them is a desire for jewelry that holds soul: objects that feel as if they carry both history and possibility.\n\nEach piece I make bridges eras, an heirloom made new, timeless in craft but resonant with a modern spirit. I want my work to live with the wearer, gathering their stories as much as it carries mine. In this way, jewelry becomes more than adornment; it becomes a vessel for memory, a marker of identity, a quiet but enduring inheritance.\n\nThe impact I hope for is simple yet lasting: to preserve the power of heritage craft while creating objects that become inseparable from the lives they touch. My vision is for each piece to feel like a living story rooted in tradition, shaped by hand, and made to carry forward into the future",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "image_text_xdAWck": {
+      "type": "image_text",
+      "disabled": true,
+      "name": "Image with text",
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "My work is guided by heritage techniques, hand engraving, goldsmithing, and fine stone setting but my intention is always to create jewelry that feels alive in the present. Every piece begins with a story. It is shaped by the lineage of craft passed down through my family, yet transformed into something wholly my own. Jewelry, to me, is not just ornament, it is memory, connection, and meaning made tangible.\n\nI create for those who value intention over trend, who seek objects that speak to individuality and endure beyond seasons. My collectors come to me for pieces that feel deeply personal; an engagement ring that marks a singular love, an heirloom meant to be worn every day, or a talisman that honors a milestone. What unites them is a desire for jewelry that holds soul: objects that feel as if they carry both history and possibility.\n\nEach piece I make bridges eras, an heirloom made new, timeless in craft but resonant with a modern spirit. I want my work to live with the wearer, gathering their stories as much as it carries mine. In this way, jewelry becomes more than adornment; it becomes a vessel for memory, a marker of identity, a quiet but enduring inheritance.\n\nThe impact I hope for is simple yet lasting: to preserve the power of heritage craft while creating objects that become inseparable from the lives they touch. My vision is for each piece to feel like a living story rooted in tradition, shaped by hand, and made to carry forward into the future",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    }
+  },
+  "order": [
+    "heading",
+    "main",
+    "sidebar-page",
+    "slideshow_Re4dMH",
+    "image_text_Rgfpia",
+    "image_text_xdAWck"
+  ]
+}
