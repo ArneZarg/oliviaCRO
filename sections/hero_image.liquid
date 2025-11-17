@@ -56,9 +56,7 @@
   {%- capture append_bg_border_style -%}--br-color:{{ se_stts.br_color }};--br-style:{{ se_stts.br_style }};--br-pd:{{ se_stts.br_pd }}px;--br-pd-mb:{{ se_stts.br_pd_mb }}px;--border-bg:{{ br_bg }};{%- endcapture -%}
 {%- endif -%}
 <style>
-  .t4s_nt_se_{{ sid }}{
-    background-image: url({{ image | image_url: width: 1, height: 1, format: 'jpg' }}) {% if image.presentation.focal_point != '50.0% 50.0%' and IsParallax == false %};background-position: {{ image.presentation.focal_point }}{% endif %}
-  }
+  
 </style>
 <div class="t4s-section-inner {{ t4s_se_class }} t4s_nt_se_{{ sid }} {{ stt_layout }}" {% render 'section_style', se_stts: se_stts, append_style: append_style -%}>
   {{- html_layout[0] -}}
@@ -66,7 +64,8 @@
     <div class="t4s-col-item t4s-hero-image-item">
       <div class="t4s-hero-inner t4s-pr t4s-oh t4s_cover t4s_ratio" timeline hdt-reveal="slide-in">
         {%- if image != blank -%}
-          <div data-parallax-t4s{{ IsParallax }} class="t4s-hero-block t4s_bg {% if IsParallax %} t4s-parallax t4s-parallax-bg{% endif %}" data-bgset="{{ image | image_url: width: 1 }}" style="" data-sizes="auto" data-optimumx="2"></div>
+          <div data-parallax-t4s{{ IsParallax }} class="t4s-hero-block t4s_bg t4s-lz--fadeIn lazyloadt4s{% if IsParallax %} t4s-parallax t4s-parallax-bg{% endif %}"
+             data-bgset="{{ image | image_url: width: 900 }} [(max-width:1023px)] | {{ section.settings.image_desk | image_url: width: 1800 }}" style="background-image: url({{ image | image_url: width: 1, height: 1, format: 'jpg' }}) {% if image.presentation.focal_point != '50.0% 50.0%' and IsParallax == false %};background-position: {{ image.presentation.focal_point }}{% endif %}" data-sizes="auto" data-optimumx="2"></div>
         {%- else -%}
           {{ 'lifestyle-1' | placeholder_svg_tag: 't4s-placeholder-svg t4s-svg-bg1' }}
         {%- endif -%}
@@ -247,6 +246,11 @@
       "id": "image",
       "label": "Choose image",
       "info": "Not support focal point when use parallax"
+    },
+    {
+      "type":"image_picker",
+      "id":"image_desk",
+      "label":"Choose Desktop Image"
     },
     {
       "type": "checkbox",

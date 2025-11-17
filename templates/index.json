@@ -210,6 +210,7 @@
         "custom_mb": true,
         "height_mb": 650,
         "image": "shopify:\/\/shop_images\/iPhone_16_-_2.jpg",
+        "image_desk": "shopify:\/\/shop_images\/image_desktop_hero.png",
         "parallax": false,
         "image_position": "0",
         "link_img1": "",

@@ -549,7 +549,7 @@
           "layout": "logo_center",
           "full_header": true,
           "custom_logo_width": true,
-          "logo_width_px": 1.6,
+          "logo_width_px": 2,
           "height": 70,
           "arrow": false,
           "align": "start",
