@@ -151,3 +151,16 @@
         z-index: 3;
     }
 }
+/*FIXES*/
+@media(min-width:1024px){
+    .text-format-left{
+        p{
+            text-align:left;
+        }
+    }
+    .text-format-right{
+        p{
+            text-align:right;
+        }
+    }
+}

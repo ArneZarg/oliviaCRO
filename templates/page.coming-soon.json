@@ -220,10 +220,37 @@
             "dots_space": 10,
             "dots_hidden_mobile": false
           }
+        },
+        "bl_text_8RyAmB": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "",
+            "font_size_heading": 44,
+            "text": "<p>My work is guided by heritage techniques, hand engraving, goldsmithing, and fine stone setting but my intention is always to create jewelry that feels alive in the present. Every piece begins with a story. It is shaped by the lineage of craft passed down through my family, yet transformed into something wholly my own. Jewelry, to me, is not just ornament, it is memory, connection, and meaning made tangible.<br\/><br\/>I create for those who value intention over trend, who seek objects that speak to individuality and endure beyond seasons. My collectors come to me for pieces that feel deeply personal; an engagement ring that marks a singular love, an heirloom meant to be worn every day, or a talisman that honors a milestone. What unites them is a desire for jewelry that holds soul: objects that feel as if they carry both history and possibility.<br\/><br\/>Each piece I make bridges eras, an heirloom made new, timeless in craft but resonant with a modern spirit. I want my work to live with the wearer, gathering their stories as much as it carries mine. In this way, jewelry becomes more than adornment; it becomes a vessel for memory, a marker of identity, a quiet but enduring inheritance.<br\/><br\/>The impact I hope for is simple yet lasting: to preserve the power of heritage craft while creating objects that become inseparable from the lives they touch. My vision is for each piece to feel like a living story rooted in tradition, shaped by hand, and made to carry forward into the future<\/p>",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default",
+            "text_format": "left"
+          }
         }
       },
       "block_order": [
-        "bl_image_wnFydt"
+        "bl_image_wnFydt",
+        "bl_text_8RyAmB"
       ],
       "name": "Image with text",
       "settings": {
@@ -231,7 +258,7 @@
         "heading_align": "t4s-text-center",
         "top_heading": "About",
         "icon_heading": "las la-gem",
-        "top_subheading": "My work is guided by heritage techniques, hand engraving, goldsmithing, and fine stone setting but my intention is always to create jewelry that feels alive in the present. Every piece begins with a story. It is shaped by the lineage of craft passed down through my family, yet transformed into something wholly my own. Jewelry, to me, is not just ornament, it is memory, connection, and meaning made tangible.\n\nI create for those who value intention over trend, who seek objects that speak to individuality and endure beyond seasons. My collectors come to me for pieces that feel deeply personal; an engagement ring that marks a singular love, an heirloom meant to be worn every day, or a talisman that honors a milestone. What unites them is a desire for jewelry that holds soul: objects that feel as if they carry both history and possibility.\n\nEach piece I make bridges eras, an heirloom made new, timeless in craft but resonant with a modern spirit. I want my work to live with the wearer, gathering their stories as much as it carries mine. In this way, jewelry becomes more than adornment; it becomes a vessel for memory, a marker of identity, a quiet but enduring inheritance.\n\nThe impact I hope for is simple yet lasting: to preserve the power of heritage craft while creating objects that become inseparable from the lives they touch. My vision is for each piece to feel like a living story rooted in tradition, shaped by hand, and made to carry forward into the future",
+        "top_subheading": "",
         "tophead_mb": 30,
         "space_h_item": "20",
         "space_v_item": "10",
