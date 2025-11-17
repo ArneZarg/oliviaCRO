@@ -14,13 +14,13 @@
    assign logo = logo_df
    assign rate_retina = 2
    assign lg_w_2s = lg_w | times: rate_retina
+   assign lg_wp_2s = logo_width_px | times: rate_retina
 -%} 
 
 <{{ tag }} class="{{ class }} t4s-header__logo t4s-lh-1"><a class="{{ class_a | default: 't4s-d-inline-block' }}" href="{{ routes.root_url }}" {{ block.shopify_attributes }}>
-
    {%- if svg != blank -%}
       <img loading="eager" class="header__normal-logo t4s-d-none t4s-d-lg-block" src="{{ svg }}" alt="{{ shop_name_escape }}" style="width: {{ lg_w }}px">
-      <img loading="lazy" class="header__sticky-logo t4s-d-none t4s-d-none" src="{{ svg_df | default: svg }}" alt="{{ shop_name_escape }}" style="width: {{ settings.logos_width }}px">
+      <img loading="lazy" class="header__sticky-logo t4s-d-none t4s-d-none" src="{{ svg_df | default: svg }}" alt="{{ shop_name_escape }}" style="{{ settings.logo_width }}">
       <img loading="eager" class="header__mobile-logo t4s-d-lg-none" src="{{ svg }}" alt="{{ shop_name_escape }}" style="width: {{ settings.logo_mb_width }}px">
    
    {%- elsif logo != blank -%}
@@ -34,10 +34,10 @@
     assign logo = settings.logos | default: logo_df
     assign lg_w_2s = lg_w | times: rate_retina
     assign logo_height = lg_w | divided_by: logo.aspect_ratio | round -%} 
-    <style>@media(max-width: 1024px){.header__sticky-logo {width: {{ settings.logo_mb_width }}px !important }}</style>
-    <img loading="lazy" srcset="{{ logo | image_url: width: lg_w }}, {{ logo | image_url: width: lg_w_2s }} 2x" src="{{ logo | image_url: width: lg_w }}"
-    class="header__sticky-logo t4s-d-none t4s-d-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" style="width: {{ lg_w }}px">
-
+    <style>@media(max-width: 1024px){.header__sticky-logo {width: {{ settings.logos_width }}px !important }}</style>
+    
+      <img loading="lazy" srcset="{{ logo | image_url: width: lg_w }}, {{ logo | image_url: width: lg_w_2s }} 2x" src="{{ logo | image_url: width: lg_w }}"
+    class="header__sticky-logo t4s-d-none t4s-d-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" style="width: {{ lg_w }}px;{% if custom_logo_width %} transform:scale({{ logo_width_px }});{% endif %} %}">
 
     {%- liquid 
     assign lg_w = settings.logo_mb_width
@@ -49,7 +49,7 @@
     assign lg_w_2s = lg_w | times: rate_retina
     assign logo_height = lg_w | divided_by: logo.aspect_ratio | round -%} 
     <img loading="eager" srcset="{{ logo | image_url: width: lg_w }}, {{ logo | image_url: width: lg_w_2s }} 2x" src="{{ logo | image_url: width: lg_w }}"
-    class="header__mobile-logo t4s-d-lg-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" style="width: {{ lg_w }}px">
+    class="header__mobile-logo t4s-d-lg-none" width="{{ lg_w }}" height="{{ logo_height }}" alt="{{ logo.alt | default: shop_name | escape }}" style="width: {{ lg_w }}px;{% if custom_logo_width %} transform:scale({{ logo_width_px }});{% endif %}">
 
 {%- else -%}{{- shop.name -}}
 {%- endif -%}
